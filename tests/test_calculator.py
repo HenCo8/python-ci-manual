@@ -3,7 +3,7 @@ from services.calculator_service import add, divide
 
 
 def test_add():
-    assert add(2, 3) == 5
+    assert add(2, 3) == 999
 
 
 def test_divide():
